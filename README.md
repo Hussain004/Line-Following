@@ -1,5 +1,7 @@
 <h1> Line Following using Canny Edge Detection and Hough Transform </h1>
 
+![showcase](showcase.png)
+
 <h2> Overview </h2>
 This project demonstrates a line following algorithm using computer vision techniques on the DJI Robomaster EP Core robot platform. The robot is equipped with a camera that captures the video feed, which is then processed to detect the presence of lines and determine the appropriate steering angle to follow the line.
 
